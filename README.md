@@ -67,6 +67,9 @@ Para que uma User Story seja considerada pronta para desenvolvimento, ela deve c
 * [ ] **Insumos de Homologação**: Amostras reais de dados das fontes de imóveis rurais (CAR) e tabelas secundárias estão disponíveis.
 * [ ] **Modelo de Dados**: O diagrama relacional da camada de dados envolvida está desenhado e homologado pelo DBA.
 * [ ] **Estimativa Realizada**: O esforço de desenvolvimento foi estimado e pontuado em Story Points pela equipe.
+* [ ] **Sem Dependências Bloqueadoras**: A User Story não depende de outra ainda não concluída ou não iniciada.
+* [ ] **Compreensão Validada com o Time**: A Equipe discutiu a história coletivamente e confirma entendimento comum do escopo.
+* [ ] **Estratégia de Testes Definida**: Os cenários de teste (unidade e, quando aplicável, integração) foram definidos previamente, alinhados à cobertura mínima exigida.
 
 ---
 
